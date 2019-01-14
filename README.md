@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tippy*
 
 **Tippy** is a tip calculator application for iOS.
 
@@ -34,8 +34,6 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 Creating a textfield using a number formatter is very difficult, since you have to prevent the user from editing the commas or currency symbols. I'm not sure if there is a built in way to accomplish this, but it seemed like it required a lot of string manipulation with a ton of edge cases. Ultimately, I chose to only format the outputs and the placeholder. I thought this made the calculator more intuitive.
 
